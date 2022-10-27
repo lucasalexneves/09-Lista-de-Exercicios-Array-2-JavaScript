@@ -17,5 +17,6 @@ Fibonacci[1] = numero
 for (var index = 2; index < 10; index++) {
     Fibonacci[index] = Fibonacci[index - 1] + Fibonacci [index - 2]
 }
+
 console.log(Fibonacci)
 
