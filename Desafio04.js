@@ -19,4 +19,3 @@ for (var index = 2; index < 10; index++) {
 }
 
 console.log(Fibonacci)
-
